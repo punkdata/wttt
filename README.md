@@ -1,2 +1,3 @@
-# wttt
-WTTT - Welcome to the Terraform repo for my terraform fuckery 
+# wttt: Welcome to the Terraform
+
+Terraform repo for my terraform fuckery
